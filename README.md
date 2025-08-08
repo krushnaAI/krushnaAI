@@ -1,8 +1,8 @@
-  <h1 align="center"> Hi there 👋, I'm Everyone !</h1>
-<p><a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"></a></p>
+  <h1 align="center"> Hi there 👋,Everyone !</h1>
+<p><a target="_blank" href="https://www.stefanosst.gr"><img src="[https://github.com/krushnaAI/krushnaAI/blob/31ce9cc4c3fc7fbf8f34c8c14e09b78aafce9e8e/github-header-banner%20(7).png]"></a></p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Krushna+Gavali;FullStack+Developer;React%20|%20Angular%20|%20Tech+Enthusiast;DSA%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
 <div><pre>💻 I am developing my skills as a Full Stack Developer | Enthusiastic about new technologies
