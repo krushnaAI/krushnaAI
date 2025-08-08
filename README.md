@@ -1,4 +1,4 @@
-  <h1 align="center"> Hi there 👋,Everyone !</h1>
+  <h1 align="center"> Hi there 👋,Everyone ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50"></h1>
 <p><a target="_blank" href="https://www.stefanosst.gr"><img src="[https://github.com/krushnaAI/krushnaAI/blob/31ce9cc4c3fc7fbf8f34c8c14e09b78aafce9e8e/github-header-banner%20(7).png]"></a></p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
